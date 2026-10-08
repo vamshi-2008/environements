@@ -1,4 +1,4 @@
-name: 01 - GitHub Actions Environments Demo
+name: 01 - GitHub Actions Environments Enhancements
 
 on:
   push:
